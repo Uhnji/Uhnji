@@ -7,8 +7,7 @@ I started coding 5 years ago, and developed my first major project, _Dwelt_ in 2
 
 ### What do I do?
   Primarily, I like to code in C, x86, and Python (for scripting only). 
-### Contact me
-  Feel <b>free</b> to contact me over discord @ Uhnji. 
+
 ### Colaboration on Projects
-I would love to collaborate on any coding projects within my current skillset, so if you want to cooperate on coding projects in Java/Python/C/C++, feel free to contact me (info is in above section).
+I would love to collaborate on any coding projects within my current skillset, so if you want to cooperate on coding projects in Java/Python/C/C++, feel free to contact me.
 
