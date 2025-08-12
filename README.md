@@ -1,5 +1,5 @@
 ### Who am I?
-Hi, I'm Kyler: a embedded systems engineer in training with a focus on implementation of hardware optimizations. I am a <s>first</s> <i><s>second</s></i> <i><s>third</s></i> <b>fourth<\b> year college student studying computer science with a focus on computer systems.
+Hi, I'm Kyler: a embedded systems engineer in training with a focus on implementation of hardware optimizations. I am a <s>first</s> <i><s>second</s></i> <i><s>third</s></i> <b>fourth</b> year college student studying computer science with a focus on computer systems.
 In my offtime, I enjoy developing my skills as a creative writer, backpacker, tabletop gamer, and SCUBA Diver.
 
 I started coding 6 years ago, and developed my first major project, _Dwelt_ in 2022 as a technical test during my first year of college. my future goals in coding are to complete my new focus project, 
