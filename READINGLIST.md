@@ -1,5 +1,5 @@
 # Overview
-<p>This is my reading list, introducing papers, books, and articles that are to my interest. Most Texts here will be scholastic articles, covering concepts in comupter systems and deep learning. <\p>
+This is my reading list, introducing papers, books, and articles that are to my interest. Most Texts here will be scholastic articles, covering concepts in comupter systems and deep learning.
 # My Reading List
 ## Research Articles
 
